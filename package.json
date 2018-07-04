@@ -1,0 +1,17 @@
+{
+  "name": "Alexa_firebase_cafeteria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "firebase-admin": "^5.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kasipuri Nootan Kumar <k.nootankumar@gmail.com>",
+  "license": "ISC"
+}
